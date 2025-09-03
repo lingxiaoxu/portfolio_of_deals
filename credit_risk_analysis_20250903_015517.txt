@@ -1,0 +1,95 @@
+CREDIT RISK ANALYSIS REPORT
+==================================================
+
+Analysis Mode: Advanced Credit Modeling
+Generated: 2025-09-03 01:55:21
+
+PORTFOLIO CREDIT METRICS:
+------------------------------
+Average Default Probability: 3.76%
+Average Recovery Rate: 51.00%
+Average Spread: 1.61%
+Total Expected Loss: $53,245,000
+
+INDIVIDUAL LOAN ANALYSIS:
+------------------------------
+
+Loan: DEAL_001
+  Borrower: Echo Foods Co.
+  Credit Score: 59.4
+  Default Probability: 4.50%
+  Recovery Rate: 35.00%
+  Risk-Adjusted Spread: 0.00%
+  Expected Loss: $17,550,000
+
+Loan: DEAL_002
+  Borrower: Charlie Energy Partners LP
+  Credit Score: 72.0
+  Default Probability: 4.00%
+  Recovery Rate: 50.00%
+  Risk-Adjusted Spread: 0.00%
+  Expected Loss: $15,000,000
+
+Loan: DEAL_003
+  Borrower: Foxtrot Health Services
+  Credit Score: 72.6
+  Default Probability: 4.00%
+  Recovery Rate: 50.00%
+  Risk-Adjusted Spread: 7.10%
+  Expected Loss: $7,000,000
+
+Loan: DEAL_004
+  Borrower: Bravo Logistics Inc.
+  Credit Score: 117.3
+  Default Probability: 1.00%
+  Recovery Rate: 75.00%
+  Risk-Adjusted Spread: 3.74%
+  Expected Loss: $750,000
+
+Loan: DEAL_005
+  Borrower: Delta Holdings LLC
+  Credit Score: 66.0
+  Default Probability: 3.00%
+  Recovery Rate: 50.00%
+  Risk-Adjusted Spread: 4.09%
+  Expected Loss: $6,750,000
+
+Loan: PORT_001
+  Borrower: Zeta Industrials plc
+  Credit Score: 78.0
+  Default Probability: 3.50%
+  Recovery Rate: 50.00%
+  Risk-Adjusted Spread: 0.00%
+  Expected Loss: $962,500
+
+Loan: PORT_002
+  Borrower: Kilo Retail Group
+  Credit Score: 64.0
+  Default Probability: 5.30%
+  Recovery Rate: 50.00%
+  Risk-Adjusted Spread: 0.00%
+  Expected Loss: $1,192,500
+
+Loan: PORT_003
+  Borrower: LimaTech BV
+  Credit Score: 72.0
+  Default Probability: 3.50%
+  Recovery Rate: 50.00%
+  Risk-Adjusted Spread: 1.20%
+  Expected Loss: $1,137,500
+
+Loan: PORT_004
+  Borrower: Nimbus Retail Group
+  Credit Score: 64.0
+  Default Probability: 5.30%
+  Recovery Rate: 50.00%
+  Risk-Adjusted Spread: 0.00%
+  Expected Loss: $1,590,000
+
+Loan: PORT_005
+  Borrower: Titan Mining SA
+  Credit Score: 70.0
+  Default Probability: 3.50%
+  Recovery Rate: 50.00%
+  Risk-Adjusted Spread: 0.00%
+  Expected Loss: $1,312,500

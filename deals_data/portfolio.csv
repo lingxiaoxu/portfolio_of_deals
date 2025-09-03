@@ -1,0 +1,6 @@
+portfolio_id,company,sector,instrument,currency,market_value,coupon_pct,maturity_year,duration
+1,Zeta Industrials plc,Industrials,Secured Notes,GBP,55000000,6.875,2031,6.2
+2,Kilo Retail Group,Retail (Apparel),Senior Unsecured Notes,USD,45000000,7.125,2033,7.0
+3,LimaTech BV,Semicap Supply Chain,Term Loan B,EUR,65000000,5.0,2032,5.5
+4,Nimbus Retail Group,Retail (General),Senior Unsecured Notes,USD,60000000,6.75,2032,6.0
+5,Titan Mining SA,Materials,Senior Notes,USD,75000000,6.25,2033,6.8

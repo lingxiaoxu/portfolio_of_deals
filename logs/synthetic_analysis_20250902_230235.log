@@ -1,0 +1,17 @@
+2025-09-02 23:02:35,050 - INFO - Portfolio analysis logging started - 20250902_230235
+2025-09-02 23:02:35,050 - INFO - Log file: logs/synthetic_analysis_20250902_230235.log
+2025-09-02 23:02:35,050 - INFO - ================================================================================
+2025-09-02 23:02:35,050 - INFO - COMPREHENSIVE PORTFOLIO ANALYSIS SYSTEM
+2025-09-02 23:02:35,050 - INFO - ================================================================================
+2025-09-02 23:02:35,050 - INFO - ✓ Fixed Income Portfolio: FRED rate data integration
+2025-09-02 23:02:35,050 - INFO - ✓ Bond Portfolio: 50 loans + 100 bonds with FRED rate data
+2025-09-02 23:02:35,051 - INFO - ✓ Scientific Risk Modeling: No random fallbacks
+2025-09-02 23:02:35,051 - INFO - ✓ Enhanced Cashflow Export: Detailed breakdowns with timestamps
+2025-09-02 23:02:35,051 - INFO - ================================================================================
+2025-09-02 23:02:35,051 - INFO - 
+============================================================
+2025-09-02 23:02:35,051 - INFO - 1. FIXED INCOME PORTFOLIO ANALYSIS
+2025-09-02 23:02:35,051 - INFO - ============================================================
+2025-09-02 23:02:35,449 - INFO - Imported bond portfolio module successfully
+2025-09-02 23:02:35,449 - INFO - Starting bond portfolio analysis...
+2025-09-02 23:02:35,449 - INFO - Found deals_data files - using real deal data

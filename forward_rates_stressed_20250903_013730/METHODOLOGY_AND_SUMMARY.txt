@@ -1,0 +1,18 @@
+STRESSED FORWARD RATE METHODOLOGY AND SUMMARY
+============================================================
+Generated: 2025-09-03 01:37:30
+
+STRESS SCENARIO APPLIED:
+• Risk-free rates (DGS2, DGS5, DGS10, DGS30): -50 bps parallel shift
+• SOFR: -40 bps (80% of risk-free shock)
+• EFFR: -40 bps (80% of risk-free shock)
+
+PURPOSE:
+• Test portfolio sensitivity to interest rate environment changes
+• Assess impact on floating rate loan cashflows
+• Support comprehensive stress testing analysis
+
+USAGE:
+• Used for detailed loan cashflow projections under stress
+• Applied to floating rate loans with SOFR/EFFR base rates
+• Integrated with portfolio analytics for risk assessment

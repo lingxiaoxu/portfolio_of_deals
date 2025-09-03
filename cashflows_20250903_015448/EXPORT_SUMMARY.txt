@@ -1,0 +1,16 @@
+================================================================================
+CASHFLOW EXPORT SUMMARY
+Generated: 2025-09-03 01:54:49
+================================================================================
+Exported Loan Cashflows: 10
+Exported Bond Cashflows: 0
+Total Files: 11
+
+Directory: /Users/xuling/PycharmProjects/pythonProject10/cashflows_20250903_015448
+
+All cashflows include:
+- Real-time floating rate calculations
+- Credit default probability adjustments
+- Prepayment penalty impacts (loans)
+- Expected loss provisions
+- Recovery value estimates

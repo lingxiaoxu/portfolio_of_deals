@@ -1,0 +1,87 @@
+2025-09-02 23:48:13,503 - INFO - Deals analysis logging started - 20250902_234813
+2025-09-02 23:48:13,503 - INFO - Log file: logs/deals_analysis_20250902_234813.log
+2025-09-02 23:48:13,503 - INFO - ====================================================================================================
+2025-09-02 23:48:13,503 - INFO - PRIVATE LOAN PORTFOLIO INTEGRATION & ANALYTICS
+2025-09-02 23:48:13,503 - INFO - WITH FORWARD RATE INTEGRATION & COMPREHENSIVE STRESS TESTING
+2025-09-02 23:48:13,503 - INFO - ====================================================================================================
+2025-09-02 23:48:13,503 - INFO - 🔧 Credit Risk Mode: Advanced
+2025-09-02 23:48:13,503 - INFO -    ✅ Using credit scores, risk-adjusted spreads, and fundamental-based default/recovery modeling
+2025-09-02 23:48:13,503 - INFO - Checking for forward rate projections...
+2025-09-02 23:48:13,503 - INFO - Loading CSV data files from source: deals_data/deal_start_unstructured.csv
+2025-09-02 23:48:13,505 - INFO - Loaded deals_data/deal_start_unstructured.csv: 5 records
+2025-09-02 23:48:13,505 - INFO - Loaded deals_data/portfolio.csv: 5 records
+2025-09-02 23:48:13,505 - INFO - Setting up forward rate lookup...
+2025-09-02 23:48:13,505 - INFO - Checking for forward rate projections...
+2025-09-02 23:48:13,506 - INFO - Creating stressed forward rates...
+2025-09-02 23:48:13,523 - INFO - Combining portfolios...
+2025-09-02 23:48:13,523 - INFO - Creating enhanced deal_start.txt...
+2025-09-02 23:48:13,524 - INFO - Combined portfolio: 10 total loans
+2025-09-02 23:48:13,524 - INFO - Deal Start: 5 loans
+2025-09-02 23:48:13,524 - INFO - Portfolio: 5 loans
+2025-09-02 23:48:13,524 - INFO - Generating detailed loan cashflows...
+2025-09-02 23:48:13,524 - INFO - 🏦 Processing DEAL_001 - Mode: Advanced
+2025-09-02 23:48:13,524 - INFO -    📊 Credit Score: 59.4
+2025-09-02 23:48:13,524 - INFO -    📈 Risk-Adj Spread: 0.00%
+2025-09-02 23:48:13,524 - INFO -    🎯 Adj Default Prob: 4.50%
+2025-09-02 23:48:13,524 - INFO -    🛡️ Recovery Rate: 35.00%
+2025-09-02 23:48:13,534 - INFO - 🏦 Processing DEAL_002 - Mode: Advanced
+2025-09-02 23:48:13,534 - INFO -    📊 Credit Score: 72.0
+2025-09-02 23:48:13,535 - INFO -    📈 Risk-Adj Spread: 0.00%
+2025-09-02 23:48:13,535 - INFO -    🎯 Adj Default Prob: 4.00%
+2025-09-02 23:48:13,535 - INFO -    🛡️ Recovery Rate: 50.00%
+2025-09-02 23:48:13,544 - INFO - 🏦 Processing DEAL_003 - Mode: Advanced
+2025-09-02 23:48:13,544 - INFO -    📊 Credit Score: 72.6
+2025-09-02 23:48:13,544 - INFO -    📈 Risk-Adj Spread: 7.10%
+2025-09-02 23:48:13,545 - INFO -    🎯 Adj Default Prob: 4.00%
+2025-09-02 23:48:13,545 - INFO -    🛡️ Recovery Rate: 50.00%
+2025-09-02 23:48:14,272 - INFO - 🏦 Processing DEAL_004 - Mode: Advanced
+2025-09-02 23:48:14,272 - INFO -    📊 Credit Score: 117.3
+2025-09-02 23:48:14,272 - INFO -    📈 Risk-Adj Spread: 3.74%
+2025-09-02 23:48:14,272 - INFO -    🎯 Adj Default Prob: 1.00%
+2025-09-02 23:48:14,272 - INFO -    🛡️ Recovery Rate: 75.00%
+2025-09-02 23:48:14,918 - INFO - 🏦 Processing DEAL_005 - Mode: Advanced
+2025-09-02 23:48:14,918 - INFO -    📊 Credit Score: 66.0
+2025-09-02 23:48:14,918 - INFO -    📈 Risk-Adj Spread: 4.09%
+2025-09-02 23:48:14,918 - INFO -    🎯 Adj Default Prob: 3.00%
+2025-09-02 23:48:14,918 - INFO -    🛡️ Recovery Rate: 50.00%
+2025-09-02 23:48:15,733 - INFO - 🏦 Processing PORT_001 - Mode: Advanced
+2025-09-02 23:48:15,733 - INFO -    📊 Credit Score: 78.0
+2025-09-02 23:48:15,733 - INFO -    📈 Risk-Adj Spread: 0.00%
+2025-09-02 23:48:15,733 - INFO -    🎯 Adj Default Prob: 3.50%
+2025-09-02 23:48:15,733 - INFO -    🛡️ Recovery Rate: 50.00%
+2025-09-02 23:48:15,740 - INFO - 🏦 Processing PORT_002 - Mode: Advanced
+2025-09-02 23:48:15,740 - INFO -    📊 Credit Score: 64.0
+2025-09-02 23:48:15,740 - INFO -    📈 Risk-Adj Spread: 0.00%
+2025-09-02 23:48:15,740 - INFO -    🎯 Adj Default Prob: 5.30%
+2025-09-02 23:48:15,740 - INFO -    🛡️ Recovery Rate: 50.00%
+2025-09-02 23:48:15,749 - INFO - 🏦 Processing PORT_003 - Mode: Advanced
+2025-09-02 23:48:15,749 - INFO -    📊 Credit Score: 72.0
+2025-09-02 23:48:15,749 - INFO -    📈 Risk-Adj Spread: 1.20%
+2025-09-02 23:48:15,749 - INFO -    🎯 Adj Default Prob: 3.50%
+2025-09-02 23:48:15,749 - INFO -    🛡️ Recovery Rate: 50.00%
+2025-09-02 23:48:15,757 - INFO - 🏦 Processing PORT_004 - Mode: Advanced
+2025-09-02 23:48:15,757 - INFO -    📊 Credit Score: 64.0
+2025-09-02 23:48:15,757 - INFO -    📈 Risk-Adj Spread: 0.00%
+2025-09-02 23:48:15,757 - INFO -    🎯 Adj Default Prob: 5.30%
+2025-09-02 23:48:15,757 - INFO -    🛡️ Recovery Rate: 50.00%
+2025-09-02 23:48:15,765 - INFO - 🏦 Processing PORT_005 - Mode: Advanced
+2025-09-02 23:48:15,765 - INFO -    📊 Credit Score: 70.0
+2025-09-02 23:48:15,765 - INFO -    📈 Risk-Adj Spread: 0.00%
+2025-09-02 23:48:15,765 - INFO -    🎯 Adj Default Prob: 3.50%
+2025-09-02 23:48:15,765 - INFO -    🛡️ Recovery Rate: 50.00%
+2025-09-02 23:48:37,025 - INFO - 
+================================================================================
+2025-09-02 23:48:37,025 - INFO - CREDIT RISK ANALYSIS REPORT
+2025-09-02 23:48:37,025 - INFO - ================================================================================
+2025-09-02 23:48:37,026 - INFO - 📊 Analysis Mode: Advanced Credit Modeling
+2025-09-02 23:48:37,026 - INFO - 
+📈 PORTFOLIO CREDIT METRICS COMPARISON:
+2025-09-02 23:48:37,026 - INFO - --------------------------------------------------
+2025-09-02 23:48:37,027 - INFO - 
+✅ Private loan portfolio analysis completed successfully!
+2025-09-02 23:48:37,027 - INFO - ✅ Enhanced loan files created with full attribute coverage
+2025-09-02 23:48:37,027 - INFO - ✅ Forward rate integration active with stressed scenarios
+2025-09-02 23:48:37,027 - INFO - ✅ Detailed cashflow analysis exported
+2025-09-02 23:48:37,027 - INFO - ✅ Comprehensive stress testing completed
+2025-09-02 23:48:37,027 - INFO - ✅ Professional analytics dashboard generated
+2025-09-02 23:48:37,027 - INFO - ✅ Credit Risk Mode: Advanced

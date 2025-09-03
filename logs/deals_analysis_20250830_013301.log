@@ -1,0 +1,47 @@
+2025-08-30 01:33:01,927 - INFO - Deals analysis logging started - 20250830_013301
+2025-08-30 01:33:01,927 - INFO - Log file: logs/deals_analysis_20250830_013301.log
+2025-08-30 01:33:01,927 - INFO - ====================================================================================================
+2025-08-30 01:33:01,928 - INFO - PRIVATE LOAN PORTFOLIO INTEGRATION & ANALYTICS
+2025-08-30 01:33:01,928 - INFO - WITH FORWARD RATE INTEGRATION & COMPREHENSIVE STRESS TESTING
+2025-08-30 01:33:01,928 - INFO - ====================================================================================================
+2025-08-30 01:33:01,928 - INFO - 🔧 Credit Risk Mode: Static
+2025-08-30 01:33:01,928 - INFO -    ✅ Using static default probabilities and recovery assumptions
+2025-08-30 01:33:01,928 - INFO - Checking for forward rate projections...
+2025-08-30 01:33:01,928 - INFO - Loading CSV data files from source: deals_data/deal_start_unstructured.csv
+2025-08-30 01:33:01,929 - INFO - Loaded deals_data/deal_start_unstructured.csv: 5 records
+2025-08-30 01:33:01,929 - INFO - Loaded deals_data/portfolio.csv: 5 records
+2025-08-30 01:33:01,929 - INFO - Setting up forward rate lookup...
+2025-08-30 01:33:01,929 - INFO - Checking for forward rate projections...
+2025-08-30 01:33:01,930 - INFO - Creating stressed forward rates...
+2025-08-30 01:33:01,947 - INFO - Combining portfolios...
+2025-08-30 01:33:01,947 - INFO - Creating enhanced deal_start.txt...
+2025-08-30 01:33:01,948 - INFO - Combined portfolio: 10 total loans
+2025-08-30 01:33:01,948 - INFO - Deal Start: 5 loans
+2025-08-30 01:33:01,948 - INFO - Portfolio: 5 loans
+2025-08-30 01:33:01,948 - INFO - Generating detailed loan cashflows...
+2025-08-30 01:33:01,948 - INFO - 🏦 Processing DEAL_001 - Mode: Static
+2025-08-30 01:33:01,958 - INFO - 🏦 Processing DEAL_002 - Mode: Static
+2025-08-30 01:33:01,967 - INFO - 🏦 Processing DEAL_003 - Mode: Static
+2025-08-30 01:33:02,669 - INFO - 🏦 Processing DEAL_004 - Mode: Static
+2025-08-30 01:33:03,283 - INFO - 🏦 Processing DEAL_005 - Mode: Static
+2025-08-30 01:33:04,066 - INFO - 🏦 Processing PORT_001 - Mode: Static
+2025-08-30 01:33:04,073 - INFO - 🏦 Processing PORT_002 - Mode: Static
+2025-08-30 01:33:04,082 - INFO - 🏦 Processing PORT_003 - Mode: Static
+2025-08-30 01:33:04,090 - INFO - 🏦 Processing PORT_004 - Mode: Static
+2025-08-30 01:33:04,098 - INFO - 🏦 Processing PORT_005 - Mode: Static
+2025-08-30 01:33:08,275 - INFO - 
+================================================================================
+2025-08-30 01:33:08,275 - INFO - CREDIT RISK ANALYSIS REPORT
+2025-08-30 01:33:08,275 - INFO - ================================================================================
+2025-08-30 01:33:08,276 - INFO - 📊 Analysis Mode: Static Assumptions
+2025-08-30 01:33:08,276 - INFO - 
+📈 PORTFOLIO CREDIT METRICS COMPARISON:
+2025-08-30 01:33:08,276 - INFO - --------------------------------------------------
+2025-08-30 01:33:08,276 - INFO - 
+✅ Private loan portfolio analysis completed successfully!
+2025-08-30 01:33:08,276 - INFO - ✅ Enhanced loan files created with full attribute coverage
+2025-08-30 01:33:08,277 - INFO - ✅ Forward rate integration active with stressed scenarios
+2025-08-30 01:33:08,277 - INFO - ✅ Detailed cashflow analysis exported
+2025-08-30 01:33:08,277 - INFO - ✅ Comprehensive stress testing completed
+2025-08-30 01:33:08,277 - INFO - ✅ Professional analytics dashboard generated
+2025-08-30 01:33:08,277 - INFO - ✅ Credit Risk Mode: Static

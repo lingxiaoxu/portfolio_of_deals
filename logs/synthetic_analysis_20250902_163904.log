@@ -1,0 +1,26 @@
+2025-09-02 16:39:04,719 - INFO - Portfolio analysis logging started - 20250902_163904
+2025-09-02 16:39:04,720 - INFO - Log file: logs/synthetic_analysis_20250902_163904.log
+2025-09-02 16:39:04,720 - INFO - ================================================================================
+2025-09-02 16:39:04,720 - INFO - COMPREHENSIVE PORTFOLIO ANALYSIS SYSTEM
+2025-09-02 16:39:04,720 - INFO - ================================================================================
+2025-09-02 16:39:04,720 - INFO - ✓ Fixed Income Portfolio: FRED rate data integration
+2025-09-02 16:39:04,720 - INFO - ✓ Bond Portfolio: 50 loans + 100 bonds with FRED rate data
+2025-09-02 16:39:04,720 - INFO - ✓ Scientific Risk Modeling: No random fallbacks
+2025-09-02 16:39:04,720 - INFO - ✓ Enhanced Cashflow Export: Detailed breakdowns with timestamps
+2025-09-02 16:39:04,720 - INFO - ================================================================================
+2025-09-02 16:39:04,720 - INFO - 
+============================================================
+2025-09-02 16:39:04,720 - INFO - 1. FIXED INCOME PORTFOLIO ANALYSIS
+2025-09-02 16:39:04,720 - INFO - ============================================================
+2025-09-02 16:39:04,936 - INFO - Imported bond portfolio module successfully
+2025-09-02 16:39:04,936 - INFO - Starting bond portfolio analysis...
+2025-09-02 16:39:04,940 - INFO - Found deals_data files - using real deal data
+2025-09-02 16:39:39,167 - ERROR - ❌ CRITICAL ERROR in portfolio analysis: list index out of range
+2025-09-02 16:39:39,168 - ERROR - Full traceback:
+2025-09-02 16:39:39,168 - ERROR - Traceback (most recent call last):
+  File "/Users/xuling/PycharmProjects/pythonProject10/run_synthetic.py", line 91, in main
+    bond_portfolios, bond_max_sharpe, bond_min_vol, loans, bonds, adjusted_returns = create_enhanced_bond_portfolio(
+  File "/Users/xuling/PycharmProjects/pythonProject10/enriched_bond_portfolio.py", line 1874, in create_enhanced_bond_portfolio
+    sample_bond = bonds[0]
+IndexError: list index out of range
+

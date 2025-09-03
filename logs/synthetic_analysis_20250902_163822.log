@@ -1,0 +1,24 @@
+2025-09-02 16:38:22,439 - INFO - Portfolio analysis logging started - 20250902_163822
+2025-09-02 16:38:22,439 - INFO - Log file: logs/synthetic_analysis_20250902_163822.log
+2025-09-02 16:38:22,439 - INFO - ================================================================================
+2025-09-02 16:38:22,439 - INFO - COMPREHENSIVE PORTFOLIO ANALYSIS SYSTEM
+2025-09-02 16:38:22,439 - INFO - ================================================================================
+2025-09-02 16:38:22,439 - INFO - ✓ Fixed Income Portfolio: FRED rate data integration
+2025-09-02 16:38:22,439 - INFO - ✓ Bond Portfolio: 50 loans + 100 bonds with FRED rate data
+2025-09-02 16:38:22,439 - INFO - ✓ Scientific Risk Modeling: No random fallbacks
+2025-09-02 16:38:22,439 - INFO - ✓ Enhanced Cashflow Export: Detailed breakdowns with timestamps
+2025-09-02 16:38:22,439 - INFO - ================================================================================
+2025-09-02 16:38:22,439 - INFO - 
+============================================================
+2025-09-02 16:38:22,439 - INFO - 1. FIXED INCOME PORTFOLIO ANALYSIS
+2025-09-02 16:38:22,439 - INFO - ============================================================
+2025-09-02 16:38:22,442 - ERROR - ❌ CRITICAL ERROR in portfolio analysis: invalid syntax (enriched_bond_portfolio.py, line 394)
+2025-09-02 16:38:22,442 - ERROR - Full traceback:
+2025-09-02 16:38:22,442 - ERROR - Traceback (most recent call last):
+  File "/Users/xuling/PycharmProjects/pythonProject10/run_synthetic.py", line 75, in main
+    from enriched_bond_portfolio import create_enhanced_bond_portfolio
+  File "/Users/xuling/PycharmProjects/pythonProject10/enriched_bond_portfolio.py", line 394
+    except Exception as e:
+    ^^^^^^
+SyntaxError: invalid syntax
+

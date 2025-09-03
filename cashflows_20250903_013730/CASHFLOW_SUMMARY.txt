@@ -1,0 +1,20 @@
+PORTFOLIO CASHFLOW SUMMARY
+============================================================
+Generated: 2025-09-03 01:37:32
+Total Loans: 10
+
+CASHFLOW TOTALS BY SCENARIO:
+----------------------------------------
+Base Case:
+  Total Interest: $846,978,573
+  Total Principal: $-0
+  Total Cashflow: $846,978,573
+
+Stressed Case:
+  Total Interest: $937,772,681
+  Total Principal: $-0
+  Total Cashflow: $937,772,681
+
+Impact Analysis:
+  Interest Impact: $90,794,108
+  Total Impact: $90,794,108

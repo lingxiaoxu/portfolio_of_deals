@@ -1,0 +1,42 @@
+====================================================================================================
+FORWARD RATE PROJECTIONS - RATE OPTIONS MASTER FILE
+Generated: 2025-09-03 01:35:38
+====================================================================================================
+Historical data period: 1962-01-02 to 2025-08-27
+Total historical observations: 17,197
+Methodology: Nelson-Siegel yield curve modeling
+Forward projection method: Yield curve embedded expectations
+
+====================================================================================================
+AVAILABLE RATE OPTIONS
+====================================================================================================
+    Code |                              Description |         Type |   Maturity |  Current |  Available
+----------------------------------------------------------------------------------------------------
+    SOFR |         Secured Overnight Financing Rate |    Overnight |       0.0Y |  4.380% |        Yes
+    EFFR |             Effective Federal Funds Rate |    Overnight |       0.0Y |  4.330% |        Yes
+    DGS2 |   2-Year Treasury Constant Maturity Rate |     Treasury |       2.0Y |  3.610% |        Yes
+    DGS5 |   5-Year Treasury Constant Maturity Rate |     Treasury |       5.0Y |  3.750% |        Yes
+   DGS10 |  10-Year Treasury Constant Maturity Rate |     Treasury |      10.0Y |  4.260% |        Yes
+   DGS30 |  30-Year Treasury Constant Maturity Rate |     Treasury |      30.0Y |  4.900% |        Yes
+
+====================================================================================================
+USAGE INSTRUCTIONS
+====================================================================================================
+1. Each rate option has its own forward projection file
+2. Forward rates calculated using Nelson-Siegel yield curve model
+3. Quarterly projections available for up to 10 years
+4. Bond systems should lookup forward rates by:
+   - Rate code (SOFR, DGS2, etc.)
+   - Reset date (quarterly intervals)
+   - Time horizon (years from base date)
+
+FILES GENERATED:
+- RATE_OPTIONS_MASTER.txt (this file)
+- SOFR_forward_projections.txt
+- EFFR_forward_projections.txt
+- DGS2_forward_projections.txt
+- DGS5_forward_projections.txt
+- DGS10_forward_projections.txt
+- DGS30_forward_projections.txt
+- COMBINED_forward_rates.txt
+- METHODOLOGY_AND_SUMMARY.txt

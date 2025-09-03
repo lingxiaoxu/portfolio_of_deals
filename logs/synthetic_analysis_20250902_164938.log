@@ -1,0 +1,25 @@
+2025-09-02 16:49:38,133 - INFO - Portfolio analysis logging started - 20250902_164938
+2025-09-02 16:49:38,133 - INFO - Log file: logs/synthetic_analysis_20250902_164938.log
+2025-09-02 16:49:38,133 - INFO - ================================================================================
+2025-09-02 16:49:38,133 - INFO - COMPREHENSIVE PORTFOLIO ANALYSIS SYSTEM
+2025-09-02 16:49:38,133 - INFO - ================================================================================
+2025-09-02 16:49:38,133 - INFO - ✓ Fixed Income Portfolio: FRED rate data integration
+2025-09-02 16:49:38,133 - INFO - ✓ Bond Portfolio: 50 loans + 100 bonds with FRED rate data
+2025-09-02 16:49:38,133 - INFO - ✓ Scientific Risk Modeling: No random fallbacks
+2025-09-02 16:49:38,133 - INFO - ✓ Enhanced Cashflow Export: Detailed breakdowns with timestamps
+2025-09-02 16:49:38,133 - INFO - ================================================================================
+2025-09-02 16:49:38,133 - INFO - 
+============================================================
+2025-09-02 16:49:38,133 - INFO - 1. FIXED INCOME PORTFOLIO ANALYSIS
+2025-09-02 16:49:38,133 - INFO - ============================================================
+2025-09-02 16:49:38,389 - INFO - Imported bond portfolio module successfully
+2025-09-02 16:49:38,389 - INFO - Starting bond portfolio analysis...
+2025-09-02 16:49:38,389 - INFO - Found deals_data files - using real deal data
+2025-09-02 16:50:17,548 - INFO - Bond portfolio analysis completed successfully
+2025-09-02 16:50:17,548 - INFO - 
+✅ Bond Portfolio Analysis Complete
+2025-09-02 16:50:17,548 - INFO -    - Analyzed 10 private loans + 0 corporate bonds
+2025-09-02 16:50:17,548 - INFO -    - Max-Sharpe: 5.21% return, 0.14 Sharpe
+2025-09-02 16:50:17,548 - INFO -    - Min-Vol: 0.29% return, -0.29 Sharpe
+2025-09-02 16:50:17,548 - INFO -    - Cashflows exported with detailed breakdowns
+2025-09-02 16:50:17,548 - INFO - Portfolio analysis completed successfully!
